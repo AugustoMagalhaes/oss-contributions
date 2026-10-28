@@ -14,6 +14,10 @@
 - [Issue 9152](https://github.com/equinor/ert/issues/9152): [Highlights selected tab in main window](https://github.com/equinor/ert/pull/9160) (11/2024)
 - [Issue 9144](https://github.com/equinor/ert/issues/9144): [Adds teardown to avoid flaky tests with run_dialog](https://github.com/equinor/ert/pull/9326) (PR 9149 recreated as 9326) (11/2024)
 - [Issue 9545](https://github.com/equinor/ert/issues/9545): [Remove unnecessary wrapper forward_model_data_to_json](https://github.com/equinor/ert/pull/9551) (12/2024)
-- [Issue 9538](https://github.com/equinor/ert/issues/9538): [Have Ert sidebar have correct focus on startup and when simulating](https://github.com/equinor/ert/pull/9548) (Partial Contribution)(12/2024)
-- [Issue 10325](https://github.com/equinor/ert/issues/10325): [Add import safety to CLI execution in restricted environments](https://github.com/equinor/ert/pull/10326) (Partial Contribution)(04/2025)
+- [Issue 9538](https://github.com/equinor/ert/issues/9538): [Have Ert sidebar have correct focus on startup and when simulating](https://github.com/equinor/ert/pull/9548) (Partial Contribution) (12/2024)
+- [Issue 10325](https://github.com/equinor/ert/issues/10325): [Add import safety to CLI execution in restricted environments](https://github.com/equinor/ert/pull/10326) (Partial Contribution) (04/2025)
 - [Issue 11240](https://github.com/equinor/ert/issues/11240): [Improve selected failed realizations color](https://github.com/equinor/ert/pull/11541) (08/2025)
+
+### RFL: Rackslab Foundation Library
+- [Harden LDAP authentication against empty credentials](https://github.com/rackslab/RFL/pull/102) (10/2026) `security`
+-  [Prevent username enumeration in LDAP authentication](https://github.com/rackslab/RFL/pull/103) (10/2026) `security`
